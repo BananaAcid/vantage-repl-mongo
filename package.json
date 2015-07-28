@@ -1,10 +1,9 @@
 {
   "name": "vantage-repl-mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Advanced Mongo REPL extension for vantage.js",
   "main": "./lib/repl-mongo.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BananaAcid/vantage-repl-mongo.git"
@@ -23,10 +22,8 @@
     "url": "https://github.com/BananaAcid/vantage-repl-mongo/issues"
   },
   "homepage": "https://github.com/BananaAcid/vantage-repl-mongo#readme",
-  "devDependencies": {
-  },
-  "dependencies": {
-  },
+  "devDependencies": {},
+  "dependencies": {},
   "engines": {
     "node": ">= 0.11.16",
     "iojs": ">= 1.0.0"
