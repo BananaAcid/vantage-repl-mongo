@@ -105,4 +105,4 @@ node~$ mongo q motds:insert{}:
 node~$ mongo q motds:insert{}: ..
 node~$ 
 ```
-Note: the .whatever commands change the mode, so 
+Note: the .whatever commands change the mode, making all future entered objects to use that specific mode
