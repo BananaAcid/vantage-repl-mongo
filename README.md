@@ -1,5 +1,9 @@
 # vantage-repl-mongo
 
+##### CHanges
+1.0.2 results are now shown in the remote vantage shell insance
+
+
 ##### Installation
 
 ```bash
@@ -106,3 +110,7 @@ node~$ mongo q motds:insert{}: ..
 node~$ 
 ```
 Note: the .whatever commands change the mode, making all future entered objects to use that specific mode
+
+
+Bugs:
+  * '..' and '..-' execute on the main server instance.
