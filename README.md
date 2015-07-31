@@ -1,7 +1,7 @@
 # vantage-repl-mongo
 
-##### CHanges
-1.0.2 results are now shown in the remote vantage shell insance
+##### Changes
+1.0.3 results are now shown in the remote vantage shell insance
 
 
 ##### Installation

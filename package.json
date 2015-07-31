@@ -1,6 +1,6 @@
 {
   "name": "vantage-repl-mongo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Advanced Mongo REPL extension for vantage.js",
   "main": "./lib/repl-mongo.js",
   "scripts": {},
